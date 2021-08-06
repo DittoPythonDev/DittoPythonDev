@@ -37,6 +37,8 @@ for name in countries:
     else:
         print("Kechirasiz unday davlat ro'yhatimizda mavjud emas")
         break
+
+
                 
 
     
